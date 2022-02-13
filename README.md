@@ -5,7 +5,7 @@ La mayor parte del contenido de la web se encuentra en la página inicial. El me
 
 Para el desarrollo del sitio web se ha empleado HTML y CSS, haciendo uso del framework Bootstrap y también se han realizado pequeñas modificaciones sobre los estilos predefinidos por el framework empleando CSS puro.
 ## Diseño del sitio web
-En esta práctica se busca mejorar el sitio web anterior añadiendo estilos y aprovechando las herramientas del Bootstrap.
+En esta práctica se busca mejorar el sitio web anterior añadiendo estilos y aprovechando las herramientas del framework CSS Bootstrap.
 ##### Elementos Bootstrap empleados
 - Navbar (Menú superior)
 - Breadcrumbs (Para indicar en que pagina se encuentra)
