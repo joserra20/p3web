@@ -9,4 +9,9 @@ En esta práctica se busca mejorar el sitio web anterior añadiendo estilos y ap
 ##### Elementos Bootstrap empleados
 - Navbar (Menú superior)
 - Breadcrumbs (Para indicar en que pagina se encuentra)
-- Buttons
+- Botones
+- Container
+- Division horizontal del espacio
+- Diseño responsive de las imágenes.
+##### Colores corporativos
+En la hoja de estilos personalizada style.css se ha modificado el aspecto por defecto del menú y de los botones para que incorporen los colores de la compañia Naturgy.
